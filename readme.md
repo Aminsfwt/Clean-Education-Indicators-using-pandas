@@ -11,5 +11,6 @@ Population of every country and percentage of labour force and the total shares 
 
 I used Tableau story for the Visualisations 
 
-Link to the Tableau story [Education Story]([https://public.tableau.com/views/EducationStoryinthisCentury/ChildrenoutofSchool?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/StoryOfEducationinthisCentury/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Link to the Tableau story [Education Story]([https://public.tableau.com/views/EducationStoryinthisCentury/ChildrenoutofSchool?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/StoryOfEducationinthisCentury/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
 
